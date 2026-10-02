@@ -1,13 +1,10 @@
-[app]
-title = NerveApp
-package.name = nerveapp
-package.domain = org.nerve
-source.dir = .
-source.include_exts = py,png,jpg,kv,atlas,json,txt
-version = 1.0.0
-requirements = python3,kivy, cython==0.29.33,attrs,charset-normalizer,multidict,yarl,frozenlist,idna,aiosignal,legacy-cgi
-orientation = portrait
-fullscreen = 0
+[app] title = NerveApp package.name = 
+nerveapp package.domain = org.nerve 
+source.dir = . source.include_exts = 
+py,png,jpg,kv,atlas,json,txt version = 
+1.0.0 requirements = 
+python3,kivy,cython==0.29.33,legacy-cgi,attrs,charset-normalizer,multidict,yarl,frozenlist,idna,aiosignal 
+orientation = portrait fullscreen = 0 
 android.permissions = INTERNET
 
 android.api = 33
