@@ -15,3 +15,4 @@ android.minapi = 24
 android.ndk = 25b
 android.sdk_build_tools_version = 33.0.0
 android.accept_sdk_license = True
+env.AIOHTTP_NO_EXTENSIONS = 1
