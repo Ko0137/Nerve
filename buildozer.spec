@@ -5,7 +5,7 @@ package.domain = org.nerve
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas,json,txt
 version = 1.0.0
-requirements = python3,kivy,attrs,charset-normalizer,multidict,yarl,frozenlist,idna,aiosignal
+requirements = python3,kivy, cython==0.29.33,attrs,charset-normalizer,multidict,yarl,frozenlist,idna,aiosignal
 orientation = portrait
 fullscreen = 0
 android.permissions = INTERNET
