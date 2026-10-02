@@ -11,6 +11,6 @@ fullscreen = 0
 android.permissions = INTERNET
 
 android.api = 33
-android.minapi = 21
+android.minapi = 24
 android.sdk_build_tools_version = 33.0.0
 android.accept_sdk_license = True
