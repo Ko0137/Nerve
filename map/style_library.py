@@ -1,0 +1,1 @@
+class StyleLibrary: pass

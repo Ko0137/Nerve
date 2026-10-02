@@ -1,0 +1,9 @@
+kivy
+aiohttp
+cryptography
+numpy
+opencv-python
+Pillow
+pygame
+ujson
+plyer

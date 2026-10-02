@@ -1,0 +1,1 @@
+class StreamManager: pass
