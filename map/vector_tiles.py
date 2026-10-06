@@ -1,1 +1,0 @@
-class VectorTiles: pass

@@ -1,1 +1,0 @@
-class LanguageManager: pass

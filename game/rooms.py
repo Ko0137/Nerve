@@ -1,1 +1,0 @@
-class RoomManager: pass

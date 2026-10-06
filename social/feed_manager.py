@@ -1,1 +1,0 @@
-class FeedManager: pass

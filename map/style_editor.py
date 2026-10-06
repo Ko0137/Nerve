@@ -1,1 +1,0 @@
-class StyleEditor: pass
